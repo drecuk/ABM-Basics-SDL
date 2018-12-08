@@ -53,7 +53,7 @@ The series of code blocks within each folder are listed below. I suggest that be
 
 ## SYSTEMS INTEGRATION AND SCALABILITY
 - [Quadtree Terrain](https://github.com/drecuk/QuadtreeTerrain)
-- [Quadtree Agent-Interaction] (https://github.com/drecuk/QuadtreeAgentInteraction)
+- [Quadtree Agent-Interaction](https://github.com/drecuk/QuadtreeAgentInteraction)
 - GPU Accelerated Interaction Processing with CUDA (to be developed)
 
 ## ACKWNOWLEDGEMENTS
